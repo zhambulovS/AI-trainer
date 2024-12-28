@@ -1,0 +1,5 @@
+python main.py -t pull-up
+# or python main.py -t pull-up
+# or python main.py -t push-up
+# or python main.py -t squat
+
